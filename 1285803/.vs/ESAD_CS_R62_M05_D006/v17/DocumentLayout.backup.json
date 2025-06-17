@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Az_IsDB\\ESAD_CS_R62\\M_05_XML_ADO_CR\\Class_011\\ESAD_CS_R62_M05_D006\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|d:\\az_isdb\\esad_cs_r62\\m_05_xml_ado_cr\\class_011\\esad_cs_r62_m05_d006\\ex_01_masterdetails\\frmcrud_withsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|solutionrelative:ex_01_masterdetails\\frmcrud_withsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|d:\\az_isdb\\esad_cs_r62\\m_05_xml_ado_cr\\class_011\\esad_cs_r62_m05_d006\\ex_01_masterdetails\\frmcrud_withsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|solutionrelative:ex_01_masterdetails\\frmcrud_withsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|d:\\az_isdb\\esad_cs_r62\\m_05_xml_ado_cr\\class_011\\esad_cs_r62_m05_d006\\ex_01_masterdetails\\frmshowedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|solutionrelative:ex_01_masterdetails\\frmshowedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|d:\\az_isdb\\esad_cs_r62\\m_05_xml_ado_cr\\class_011\\esad_cs_r62_m05_d006\\ex_01_masterdetails\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|solutionrelative:ex_01_masterdetails\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|d:\\az_isdb\\esad_cs_r62\\m_05_xml_ado_cr\\class_011\\esad_cs_r62_m05_d006\\ex_01_masterdetails\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|solutionrelative:ex_01_masterdetails\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|d:\\az_isdb\\esad_cs_r62\\m_05_xml_ado_cr\\class_011\\esad_cs_r62_m05_d006\\ex_01_masterdetails\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|solutionrelative:ex_01_masterdetails\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmShowEdit.cs [Design]",
+              "DocumentMoniker": "D:\\Az_IsDB\\ESAD_CS_R62\\M_05_XML_ADO_CR\\Class_011\\ESAD_CS_R62_M05_D006\\Ex_01_MasterDetails\\frmShowEdit.cs",
+              "RelativeDocumentMoniker": "Ex_01_MasterDetails\\frmShowEdit.cs",
+              "ToolTip": "D:\\Az_IsDB\\ESAD_CS_R62\\M_05_XML_ADO_CR\\Class_011\\ESAD_CS_R62_M05_D006\\Ex_01_MasterDetails\\frmShowEdit.cs [Design]",
+              "RelativeToolTip": "Ex_01_MasterDetails\\frmShowEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:38:45.497Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Az_IsDB\\ESAD_CS_R62\\M_05_XML_ADO_CR\\Class_011\\ESAD_CS_R62_M05_D006\\Ex_01_MasterDetails\\App.config",
+              "RelativeDocumentMoniker": "Ex_01_MasterDetails\\App.config",
+              "ToolTip": "D:\\Az_IsDB\\ESAD_CS_R62\\M_05_XML_ADO_CR\\Class_011\\ESAD_CS_R62_M05_D006\\Ex_01_MasterDetails\\App.config",
+              "RelativeToolTip": "Ex_01_MasterDetails\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-06T10:43:53.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCRUD_withSP.cs",
+              "DocumentMoniker": "D:\\Az_IsDB\\ESAD_CS_R62\\M_05_XML_ADO_CR\\Class_011\\ESAD_CS_R62_M05_D006\\Ex_01_MasterDetails\\frmCRUD_withSP.cs",
+              "RelativeDocumentMoniker": "Ex_01_MasterDetails\\frmCRUD_withSP.cs",
+              "ToolTip": "D:\\Az_IsDB\\ESAD_CS_R62\\M_05_XML_ADO_CR\\Class_011\\ESAD_CS_R62_M05_D006\\Ex_01_MasterDetails\\frmCRUD_withSP.cs",
+              "RelativeToolTip": "Ex_01_MasterDetails\\frmCRUD_withSP.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAawJQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:30:02.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCRUD_withSP.cs [Design]",
+              "DocumentMoniker": "D:\\Az_IsDB\\ESAD_CS_R62\\M_05_XML_ADO_CR\\Class_011\\ESAD_CS_R62_M05_D006\\Ex_01_MasterDetails\\frmCRUD_withSP.cs",
+              "RelativeDocumentMoniker": "Ex_01_MasterDetails\\frmCRUD_withSP.cs",
+              "ToolTip": "D:\\Az_IsDB\\ESAD_CS_R62\\M_05_XML_ADO_CR\\Class_011\\ESAD_CS_R62_M05_D006\\Ex_01_MasterDetails\\frmCRUD_withSP.cs [Design]",
+              "RelativeToolTip": "Ex_01_MasterDetails\\frmCRUD_withSP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:14:21.943Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\Az_IsDB\\ESAD_CS_R62\\M_05_XML_ADO_CR\\Class_011\\ESAD_CS_R62_M05_D006\\Ex_01_MasterDetails\\frmMain.cs",
+              "RelativeDocumentMoniker": "Ex_01_MasterDetails\\frmMain.cs",
+              "ToolTip": "D:\\Az_IsDB\\ESAD_CS_R62\\M_05_XML_ADO_CR\\Class_011\\ESAD_CS_R62_M05_D006\\Ex_01_MasterDetails\\frmMain.cs [Design]",
+              "RelativeToolTip": "Ex_01_MasterDetails\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:14:34.044Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\Az_IsDB\\ESAD_CS_R62\\M_05_XML_ADO_CR\\Class_011\\ESAD_CS_R62_M05_D006\\Ex_01_MasterDetails\\frmMain.cs",
+              "RelativeDocumentMoniker": "Ex_01_MasterDetails\\frmMain.cs",
+              "ToolTip": "D:\\Az_IsDB\\ESAD_CS_R62\\M_05_XML_ADO_CR\\Class_011\\ESAD_CS_R62_M05_D006\\Ex_01_MasterDetails\\frmMain.cs",
+              "RelativeToolTip": "Ex_01_MasterDetails\\frmMain.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:15:23.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

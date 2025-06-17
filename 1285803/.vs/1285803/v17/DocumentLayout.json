@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|h:\\modules\\module_05_xml.ado.net\\practice\\module_05\\master detail\\1285803\\ex_01_masterdetails\\membersreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|solutionrelative:ex_01_masterdetails\\membersreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\ex_01_masterdetails\\frmaddsup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|solutionrelative:ex_01_masterdetails\\frmaddsup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\ex_01_masterdetails\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|solutionrelative:ex_01_masterdetails\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\ex_01_masterdetails\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|solutionrelative:ex_01_masterdetails\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\ex_01_masterdetails\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|solutionrelative:ex_01_masterdetails\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\ex_01_masterdetails\\frmedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|solutionrelative:ex_01_masterdetails\\frmedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\ex_01_masterdetails\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|solutionrelative:ex_01_masterdetails\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\ex_01_masterdetails\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|solutionrelative:ex_01_masterdetails\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\ex_01_masterdetails\\frmeditsup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|solutionrelative:ex_01_masterdetails\\frmeditsup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\ex_01_masterdetails\\frmeditsup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|solutionrelative:ex_01_masterdetails\\frmeditsup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\ex_01_masterdetails\\frmcrud_withsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|solutionrelative:ex_01_masterdetails\\frmcrud_withsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\ex_01_masterdetails\\frmcrud_withsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|solutionrelative:ex_01_masterdetails\\frmcrud_withsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\ex_01_masterdetails\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|solutionrelative:ex_01_masterdetails\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\ex_01_masterdetails\\frmedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|solutionrelative:ex_01_masterdetails\\frmedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\ex_01_masterdetails\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|solutionrelative:ex_01_masterdetails\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\ex_01_masterdetails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7D3336-682B-4A70-8AD9-6959294BDECF}|Ex_01_MasterDetails\\Ex_01_MasterDetails.csproj|solutionrelative:ex_01_masterdetails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MembersReport.cs [Design]",
+              "DocumentMoniker": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\MembersReport.cs",
+              "RelativeDocumentMoniker": "Ex_01_MasterDetails\\MembersReport.cs",
+              "ToolTip": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\MembersReport.cs [Design]",
+              "RelativeToolTip": "Ex_01_MasterDetails\\MembersReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T22:16:31.572Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmEditSup.cs",
+              "DocumentMoniker": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmEditSup.cs",
+              "RelativeDocumentMoniker": "Ex_01_MasterDetails\\frmEditSup.cs",
+              "ToolTip": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmEditSup.cs",
+              "RelativeToolTip": "Ex_01_MasterDetails\\frmEditSup.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:51:38.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmEditSup.cs [Design]",
+              "DocumentMoniker": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmEditSup.cs",
+              "RelativeDocumentMoniker": "Ex_01_MasterDetails\\frmEditSup.cs",
+              "ToolTip": "H:\\ADO.NET\\New folder\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmEditSup.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\ADO.NET\\New folder\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmEditSup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:48:37.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmEdit.cs [Design]",
+              "DocumentMoniker": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmEdit.cs",
+              "RelativeDocumentMoniker": "Ex_01_MasterDetails\\frmEdit.cs",
+              "ToolTip": "H:\\ADO.NET\\New folder\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmEdit.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\ADO.NET\\New folder\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:20:19.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAddSup.cs",
+              "DocumentMoniker": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmAddSup.cs",
+              "RelativeDocumentMoniker": "Ex_01_MasterDetails\\frmAddSup.cs",
+              "ToolTip": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmAddSup.cs",
+              "RelativeToolTip": "Ex_01_MasterDetails\\frmAddSup.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAawFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T18:54:44.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditForm.cs [Design]",
+              "DocumentMoniker": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\EditForm.cs",
+              "RelativeDocumentMoniker": "Ex_01_MasterDetails\\EditForm.cs",
+              "ToolTip": "H:\\ADO.NET\\New folder\\Master Detail\\1285803\\Ex_01_MasterDetails\\EditForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\ADO.NET\\New folder\\Master Detail\\1285803\\Ex_01_MasterDetails\\EditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:21:52.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmEdit.cs",
+              "DocumentMoniker": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmEdit.cs",
+              "RelativeDocumentMoniker": "Ex_01_MasterDetails\\frmEdit.cs",
+              "ToolTip": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmEdit.cs",
+              "RelativeToolTip": "Ex_01_MasterDetails\\frmEdit.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAD4vxsAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:20:22.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmCRUD_withSP.cs [Design]",
+              "DocumentMoniker": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmCRUD_withSP.cs",
+              "RelativeDocumentMoniker": "Ex_01_MasterDetails\\frmCRUD_withSP.cs",
+              "ToolTip": "H:\\ADO.NET\\New folder\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmCRUD_withSP.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\ADO.NET\\New folder\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmCRUD_withSP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:28:08.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditForm.cs",
+              "DocumentMoniker": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\EditForm.cs",
+              "RelativeDocumentMoniker": "Ex_01_MasterDetails\\EditForm.cs",
+              "ToolTip": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\EditForm.cs",
+              "RelativeToolTip": "Ex_01_MasterDetails\\EditForm.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAjwC4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:21:54.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmMain.cs",
+              "RelativeDocumentMoniker": "Ex_01_MasterDetails\\frmMain.cs",
+              "ToolTip": "H:\\ADO.NET\\New folder\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmMain.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\ADO.NET\\New folder\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:26:11.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmMain.cs",
+              "RelativeDocumentMoniker": "Ex_01_MasterDetails\\frmMain.cs",
+              "ToolTip": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmMain.cs",
+              "RelativeToolTip": "Ex_01_MasterDetails\\frmMain.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAEwCIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:28:38.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmCRUD_withSP.cs",
+              "DocumentMoniker": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmCRUD_withSP.cs",
+              "RelativeDocumentMoniker": "Ex_01_MasterDetails\\frmCRUD_withSP.cs",
+              "ToolTip": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmCRUD_withSP.cs",
+              "RelativeToolTip": "Ex_01_MasterDetails\\frmCRUD_withSP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:59:46.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAdd.cs [Design]",
+              "DocumentMoniker": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmAdd.cs",
+              "RelativeDocumentMoniker": "Ex_01_MasterDetails\\frmAdd.cs",
+              "ToolTip": "H:\\ADO.NET\\New folder\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmAdd.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\ADO.NET\\New folder\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:10:16.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_01_MasterDetails\\Program.cs",
+              "ToolTip": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\Program.cs",
+              "RelativeToolTip": "Ex_01_MasterDetails\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:27:26.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAdd.cs",
+              "DocumentMoniker": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmAdd.cs",
+              "RelativeDocumentMoniker": "Ex_01_MasterDetails\\frmAdd.cs",
+              "ToolTip": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\frmAdd.cs",
+              "RelativeToolTip": "Ex_01_MasterDetails\\frmAdd.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:10:19.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\App.config",
+              "RelativeDocumentMoniker": "Ex_01_MasterDetails\\App.config",
+              "ToolTip": "H:\\Modules\\Module_05_XML.ADO.NET\\practice\\Module_05\\Master Detail\\1285803\\Ex_01_MasterDetails\\App.config",
+              "RelativeToolTip": "Ex_01_MasterDetails\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-10T08:59:13.182Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
